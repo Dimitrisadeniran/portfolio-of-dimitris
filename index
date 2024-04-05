@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Alade Dimitris Portfolio</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>am a good leader , i led my hostel while at the higher institution as the hall representative here i listened to the needs of my fellow hostel mates and relayed this messages to my hall admins. </p>
+            <P>I assisted the hall administrators to coordinate hostel indwellers when the halll of residence had an event.</P>
+        </div>
+    </section>
+
+    <section id="portfolio">
+        <div class="container">
+            <h2>Portfolio</h2>
+            <a href="c:/Users/Alade Adeniran/Desktop/port/section 2.4.html">Movie Ranking Project</a>
+            <br />
+            <img src="c:/Users/Alade Adeniran/Desktop/port/img/best movies.jpg" height="400"/>
+            <br />
+            <a href="c:/Users/Alade Adeniran/Desktop/port/lib/project.html">my birthday</a>
+            <br />
+            <img src="c:/Users/Alade Adeniran/Desktop/port/img/project.jpg" height="400"/>
+            <br />
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Tel: +2349114910367</p>
+
+            <p>Email: adeniran.alade@icloud.com</p> 
+            <p>Address:</p>
+            <p>plot 5 & 6,</p>
+            <p>road 802,</p> 
+            <p>block ah,</p> 
+            <p>area 8, Opic estate,</p> 
+            <p>Og, 112102</p>        
+        </div>
+    </section>
+</body>
+</html>
